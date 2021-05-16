@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/getoxdev/getoxdev/blob/main/github_banner.gif)
+![GitHub Banner](https://github.com/getoxdev/getoxdev/blob/main/assets/github_banner.gif)
 
 ### Thanks for looking up on my dev contributions! 😄
 
