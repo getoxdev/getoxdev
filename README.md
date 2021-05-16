@@ -19,7 +19,7 @@
 ### Programming Languages, Databases and Tools:
 
 <img align="left" alt="Android Studio" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/android_studio.png" />
-<img align="left" alt="Java" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/java.png" />
+<img align="left" alt="Java" width="52px" height="52px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/java.png" />
 <img align="left" alt="Kotlin" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/kotlin.png" />
 <img align="left" alt="Firebase" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/firebase.png" />
 <img align="left" alt="SQLite" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/sqlite.png" />
