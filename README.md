@@ -17,7 +17,7 @@
 <img align="left" alt="Java" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/java.png" />
 <img align="left" alt="Kotlin" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/kotlin.png" />
 <img align="left" alt="Firebase" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/firebase.png" />
-<img align="left" alt="SQLite" width="26px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/sqlite.png" />
+<img align="left" alt="SQLite" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/sqlite.png" />
 <img align="left" alt="C++" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/cpp.png" />
 <img align="left" alt="MySQL" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="48px" height="32px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/visual_studio_code.png" />
