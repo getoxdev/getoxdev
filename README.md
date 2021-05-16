@@ -1,3 +1,5 @@
+![GitHub Banner](https://github.com/getoxdev/getoxdev/blob/main/github_banner.gif?raw=true)
+
 ### Hey there, thanks for looking up on my dev contributions!👋
 
 
