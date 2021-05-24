@@ -28,6 +28,5 @@
 <img align="left" alt="C++" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/cpp.png" />
 <img align="left" alt="MySQL" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/mysql.png" />
 <img align="left" alt="HTML" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/html.png" />
-<img align="left" alt="Git" width="px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/git.png" />
-<img align="left" alt="GitHub" width="52px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/github.png" />
-<img align="left" alt="Postman" width="52px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/postman.png" />
+<img align="left" alt="Git" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/git.png" />
+<img align="left" alt="Postman" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/postman.png" />
