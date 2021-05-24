@@ -16,7 +16,7 @@
 
 ---
 
-### Programming Languages, Databases and Tools:
+### Languages, Databases and Tools:
 
 <img align="left" alt="Android Studio" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/android_studio.png" />
 <img align="left" alt="Java" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/java.png" />
