@@ -12,10 +12,6 @@
 
 ---
 
-<img align="center" alt="GitHub Stats of getoxdev" src="https://github-readme-stats.vercel.app/api?username=getoxdev&show_icons=true&hide_border=true&hide=issues&count_private=true&include_all_commits=true&theme=merko&custom_title=stats of getoxdev">
-
----
-
 ### Languages, Databases and Tools:
 
 <img align="left" alt="Android Studio" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/android_studio.png" />
