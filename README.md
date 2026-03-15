@@ -30,7 +30,6 @@ Experienced **Android Engineer** focused on building and scaling high-impact mob
 <img align="left" alt="Jetpack Compose" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/jetpack_compose.png" />
 <img align="left" alt="Java" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/java.png" />
 <img align="left" alt="XML" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/xml.png" />
-<img align="left" alt="Ktor" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/ktor.png" />
 <img align="left" alt="Hilt" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/hilt.png" />
 <img align="left" alt="Firebase" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/firebase.png" />
 <img align="left" alt="SQLite" width="48px" height="48px" src="https://github.com/getoxdev/getoxdev/blob/main/assets/png/sqlite.png" />
