@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open Source Android projects.
 - 💡 I’m looking for help with Product Management.
 - 💬 Ask me about pretty much anything!
-- 📫 How to reach me: Ping me on [LinkedIn](https://www.linkedin.com/in/getoxdev/)
+- 📫 How to reach me: Ping me on [LinkedIn](https://www.linkedin.com/in/rishirajpchowdhury/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking and being a host. 
 
